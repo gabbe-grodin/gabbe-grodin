@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Gabbe 👋
+By day, I am a professional [Artist](https://gabbegrodin.com) and [Art Teacher](https://www.expressnews.com/news/local/article/Old-Women-paintings-artist-17526169.php).
+
+By night, I study web development.
 
 <!--
 **gabbe-grodin/gabbe-grodin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
