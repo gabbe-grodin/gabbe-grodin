@@ -1,5 +1,5 @@
 ### Hi there, I'm Gabbe 👋
-By day, I am a professional [Artist](https://gabbegrodin.com) and [Art Teacher](https://www.expressnews.com/news/local/article/Old-Women-paintings-artist-17526169.php).
+By day, I am a professional [Artist](https://gabbegrodin.com) and [Art Teacher](https://www.instagram.com/p/CkGj4LKu6rB/).
 
 By night, I study web development.
 
