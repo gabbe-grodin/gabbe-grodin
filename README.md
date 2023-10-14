@@ -3,7 +3,7 @@ By day, I am a professional [Artist](https://gabbegrodin.com) and [Art Teacher](
 
 By night, I study web development.
 
-I created my [first website](https://web.archive.org/web/20150417161244/http://gabbegrodin.com/index.html) in 2006 and became hooked on building for the web.
+I created [my first website in 2006](https://web.archive.org/web/20150417161244/http://gabbegrodin.com/index.html) and became hooked on building for the web.
 
 I'm currently being trained as a full stack Python Web Developer. I build with HTML, CSS, JavaScript, Python, Flask, mySQL, Bootstrap and Tailwind.
 
