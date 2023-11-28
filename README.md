@@ -27,8 +27,9 @@ I'm currently working on a web application where my students can safely create a
 
 Other recent projects...
 
+![repository-open-graph-recipes-dash](https://github.com/gabbe-grodin/gabbe-grodin/assets/3430405/9dce3f5a-94a1-4e39-85c8-cb0eff1dccd3)
+
 ![repository-open-graph-gossip-trmnl](https://github.com/gabbe-grodin/gabbe-grodin/assets/3430405/0d684e54-41c3-480f-8b39-1db28fd4f3fc)
 
 ![repository-open-graph-books-view-all](https://github.com/gabbe-grodin/gabbe-grodin/assets/3430405/acf29954-0a2c-4fe7-8806-cb0ee1666cc0)
 
-![repository-open-graph-recipes-dash](https://github.com/gabbe-grodin/gabbe-grodin/assets/3430405/9dce3f5a-94a1-4e39-85c8-cb0eff1dccd3)
