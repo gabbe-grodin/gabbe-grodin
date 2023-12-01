@@ -5,7 +5,7 @@ By night, I design and build full-stack web applications.
 
 I created [my first website in 2006](https://web.archive.org/web/20150417161244/http://gabbegrodin.com/index.html) and became hooked on building for the web.
 
-My city recently paid a training agency to make me a full stack Python Web Developer (LOVE YOU, San Antonio!). I build with HTML, CSS, JavaScript, Python, Flask, mySQL, Bootstrap, Tailwind, Figma and adding more technologies to the list everyday.
+My city recently paid a training agency to make me a full stack Python Web Developer (LOVE YOU, San Antonio!). I build with HTML, CSS, JavaScript, Python, Flask, mySQL, Bootstrap, Tailwind, Figma and adding more technologies to the list every day.
 
 <!--
 **gabbe-grodin/gabbe-grodin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
