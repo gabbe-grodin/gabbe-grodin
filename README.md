@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm currently working on a web application where my students can safely create accounts to signup for free art class through city-run senior centers:
-![repository-open-graph](https://github.com/gabbe-grodin/gabbe-grodin/assets/3430405/d1fb3cfd-16b9-451a-87d7-243db6b90741)
+![repository-open-graph](https://github.com/gabbe-grodin/gabbe-grodin/assets/3430405/06faf1c2-8b76-4b56-be03-7eac5bf6cebb)
 
 
 Other recent projects...
