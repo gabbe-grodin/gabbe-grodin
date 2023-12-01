@@ -1,7 +1,7 @@
 ### Hi there, I'm Gabbe 👋
 By day, I am a professional [Artist](https://gabbegrodin.com) and [Art Teacher](https://www.instagram.com/p/CkGj4LKu6rB/).
 
-By night, I design full-stack web applications.
+By night, I design and build full-stack web applications.
 
 I created [my first website in 2006](https://web.archive.org/web/20150417161244/http://gabbegrodin.com/index.html) and became hooked on building for the web.
 
